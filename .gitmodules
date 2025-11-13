@@ -1,0 +1,3 @@
+[submodule "Compo"]
+	path = Compo
+	url = https://github.com/trikytrukos/Compo.git

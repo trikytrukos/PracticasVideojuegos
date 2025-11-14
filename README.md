@@ -3,6 +3,8 @@ Repositorio para la entrega de tareas y actividades de clase de videojuegos
 
 ## Compo
 En este proyecto se encuentran los tres primeros ejercicios como escenas dentro del mismo
+
+:warning: Es un repositorio a parte debido a mala organización :warning:
 - Actividad 3.1 - Conociendo Unity: [Escena Cubo](https://github.com/trikytrukos/Compo/tree/main/Assets/Scenes)
 - Actividad 3.2 - Mi primer modelado "Primitivo": [Escena Modelito](https://github.com/trikytrukos/Compo/tree/main/Assets/Scenes)
 - Actividad 3.3 - Mi primer Escenario: [Escena escenario](https://github.com/trikytrukos/Compo/tree/main/Assets/Scenes)

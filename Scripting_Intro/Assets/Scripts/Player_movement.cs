@@ -28,7 +28,7 @@ public class Player_movement : MonoBehaviour
         transform.Rotate(new Vector3(0, rotacionY, 0) * Time.deltaTime * rotationSpeed);
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            Physics.AddForce(new Vector3(0,jumpForce,0));
+            Physics.AddForce(new Vector3(0,jumpForce,0), ForceMode.Impulse);
         }
     }
 }

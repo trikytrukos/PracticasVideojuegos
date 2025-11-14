@@ -12,11 +12,11 @@ La entrega de estas actividades se ha realizado mediante el aula virtual aun que
 - Actividad 3.4 - Recorrido Personalizado: [Proyecto Bola](Bola)
 
 ## Scripting Intro
-:warning: Las actividades 3.5 y 3.6 aún no están completas
+En este proyecto se encuentran los ejercicios de introducción a scripts y movimiento del jugador
 - Actividad 3.5 - Mis primeros strings: :construction: [Escena Scripts](Scripting_Intro/Assets/Scenes) :construction:
-- Actividad 3.6 - 3D Move: :construction: [Escena Player Movement](Scripting_Intro/Assets/Scenes) :construction:
+- Actividad 3.6 - 3D Move: [Escena Player Movement](Scripting_Intro/Assets/Scenes)
 
 ## Pong
-:warning: La actividad 3.7 también está en proceso
-- Actividad 3.7 - Pong: [Proyecto Pong](Pong/Assets/Scenes) 
+Ejercicio de replicar el juego Pong
+- Actividad 3.7 - Pong: [Proyecto Pong](Pong) 
 

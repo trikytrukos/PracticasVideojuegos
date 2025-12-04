@@ -22,3 +22,10 @@ En este proyecto se encuentran los ejercicios de introducción a scripts y movim
 Ejercicio de replicar el juego Pong
 - Actividad 3.7 - Pong: [Proyecto Pong](Pong) 
 
+## Arkanoid
+Ejercicio de replicar el juego Arkanoid
+- Actividad 3.8 - Arkanoid [Proyecto Arkanoid](Arkanoid)
+
+## Editor de Terrenos
+Ejercicio de crear un terreno usando un asset de terrenos
+- Actividad 3.9 - Editor de Terrenos: [terreno](Scripting_Intro/Assets/Scenes)

@@ -28,4 +28,4 @@ Ejercicio de replicar el juego Arkanoid
 
 ## Editor de Terrenos
 Ejercicio de crear un terreno usando un asset de terrenos
-- Actividad 3.9 - Editor de Terrenos: [terreno](Scripting_Intro/Assets/Scenes)
+- Actividad 3.9 - Editor de Terrenos: [Terreno](Scripting_Intro/Assets/Scenes)

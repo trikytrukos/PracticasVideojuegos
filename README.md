@@ -19,12 +19,20 @@ En este proyecto se encuentran los ejercicios de introducción a scripts y movim
 
 ## Pong
 Ejercicio de replicar el juego Pong
-- Actividad 3.7 - Pong: [Proyecto Pong](Pong) 
+- Actividad 3.7 - Pong Clon: [Proyecto Pong](Pong) 
 
 ## Arkanoid
 Ejercicio de replicar el juego Arkanoid
-- Actividad 3.8 - Arkanoid [Proyecto Arkanoid](Arkanoid)
+- Actividad 3.8 - Arkanoid Clon: [Proyecto Arkanoid ](Arkanoid)
 
 ## Editor de Terrenos
 Ejercicio de crear un terreno usando un asset de terrenos
 - Actividad 3.9 - Editor de Terrenos: [Terreno](Scripting_Intro/Assets/Scenes)
+
+## Angry Birds
+Ejercicio de replicar el juego Angry Birds
+- Actividad 3.10 - Angry Birds Clon: [Proyecto Angry Birds](AngryBirds/Assets/Scenes)
+
+## Flappy Bird
+Ejercicio de replicar el juego Flappy Bird
+- Actividad 3.11 - Flappy Bird Clon: [Proyecto Flappy Bird](FlappyBird/Assets/Scenes)

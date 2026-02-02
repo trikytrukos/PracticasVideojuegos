@@ -1,5 +1,5 @@
 # PracticasVideojuegos
-Repositorio para la entrega de tareas y actividades de clase de videojuegos
+Repositorio para la entrega de tareas y actividades de la asignatura de desarrollo de videojuegos
 
 ## Compo
 En este proyecto se encuentran los tres primeros ejercicios como escenas dentro del mismo
